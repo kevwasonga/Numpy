@@ -55,15 +55,13 @@ __pycache__/
 # Notebook autosaves
 *.nbconvert.ipynb
 
-# Data files (optional — adjust if you want to track some)
+# Data files (optional)
 *.csv
 *.tsv
 *.xlsx
 *.xls
 *.sqlite
 *.db
-*.swp
-
 
 # Logs & temp
 *.log
